@@ -5,7 +5,7 @@
 > If you feel someone is violating one of the rules and no moderators are around, take a screenshot and report it via direct messaging the moderators in the [Discord server](https://discord.gg/JREx8xz).
 
 ### Game Rules
-* No botting 
+* No botting.
 * No Tool assistance
 * No excessive alts
 * Don't exploit bugs
